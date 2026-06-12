@@ -1,4 +1,4 @@
-# Aerofit-database-and-business-data-management-Project
+# Aerofit Database Project
 
 # Treadmill Buyer Profile
 
